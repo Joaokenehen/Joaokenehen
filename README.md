@@ -30,12 +30,12 @@
 ## Estatísticas GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaokenehen&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokenehen&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaokenehen&show_icons=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=0A66C2&border_color=ffffff&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokenehen&layout=compact&bg_color=ffffff&title_color=111111&text_color=111111&border_color=ffffff&locale=pt-br" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Joaokenehen&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Joaokenehen&background=FFFFFF&ring=0A66C2&fire=0A66C2&currStreakLabel=111111&sideLabels=111111&currStreakNum=111111&dates=555555&sideNums=111111&stroke=FFFFFF&border=FFFFFF&locale=pt_BR" alt="Sequência de contribuições" />
 </p>
 
 ## O que você vai encontrar por aqui
