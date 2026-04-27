@@ -1,4 +1,4 @@
-# Olá, eu sou João Guilherme
+# Olá, eu sou João Gustavo Quennehen
 
 <p align="center">
   Desenvolvedor focado em criar interfaces modernas, aplicações completas e soluções que transformam ideias em produtos reais.
@@ -19,6 +19,7 @@
 - Gosto de trabalhar com frontend, backend e aplicações full stack.
 - Estou sempre aprendendo novas ferramentas, bibliotecas e boas práticas.
 - Valorizo código limpo, colaboração e evolução constante.
+- Quero a cada dia aprender mais sobre os usos de diferentes linguagens
 
 ## Tecnologias que mais uso
 
