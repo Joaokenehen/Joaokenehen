@@ -1,52 +1,61 @@
-# JG Tech
+# Olá, eu sou João Guilherme
 
-Olá! 👋
+<p align="center">
+  Desenvolvedor focado em criar interfaces modernas, aplicações completas e soluções que transformam ideias em produtos reais.
+</p>
 
-Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que transformam ideias em experiências digitais. Este repositório é o meu portfólio pessoal, onde mostro projetos, aprendizados e o meu caminho profissional.
-
----
+<p align="center">
+  <a href="https://github.com/Joaokenehen">
+    <img src="https://img.shields.io/badge/GitHub-Joaokenehen-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://github.com/Joaokenehen/JG_Tech">
+    <img src="https://img.shields.io/badge/Portfolio-JG_Tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ## Sobre mim
 
-- 💡 Gosto de construir aplicações modernas, limpas e funcionais.
-- 🚀 Tenho interesse em desenvolvimento web, automação e inovação.
-- 📚 Busco aprender sempre: novas linguagens, frameworks e boas práticas.
-- 🤝 Valorizo colaboração, código legível e entrega com qualidade.
+- Desenvolvo projetos com foco em performance, organização e boa experiência de uso.
+- Gosto de trabalhar com frontend, backend e aplicações full stack.
+- Estou sempre aprendendo novas ferramentas, bibliotecas e boas práticas.
+- Valorizo código limpo, colaboração e evolução constante.
 
----
+## Tecnologias que mais uso
 
-## O que eu faço
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github,vscode&perline=5" alt="Tecnologias" />
+</p>
 
-- Desenvolvimento de **interfaces responsivas** e usáveis.
-- Construção de **APIs e backend** com foco em desempenho e escalabilidade.
-- Implementação de **projetos full-stack** do conceito até a entrega.
-- Experimentação com tecnologias atuais para criar soluções reais.
+## Estatísticas GitHub
 
----
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaokenehen&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokenehen&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
 
-## Habilidades
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=Joaokenehen&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+</p>
 
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React
-- **Backend:** Node.js, Express, APIs REST
-- **Ferramentas:** Git, GitHub, VS Code, testes, deploy
-- **Aprendizado contínuo:** novas bibliotecas, padrões e arquiteturas
+## O que você vai encontrar por aqui
 
----
+- Projetos pessoais com foco em interfaces modernas e responsivas.
+- Aplicações web com integração entre frontend e backend.
+- Estudos, experimentos e evoluções da minha jornada como desenvolvedor.
+- Repositórios que mostram meu jeito de estruturar, testar e entregar software.
 
-## Meu portfólio
+## Objetivo
 
-Aqui você vai encontrar:
+Usar tecnologia para construir soluções úteis, funcionais e bem pensadas, sempre buscando evoluir tanto tecnicamente quanto na forma de criar experiências melhores para as pessoas.
 
-- projetos pessoais com foco em usabilidade e performance
-- estudos e protótipos de interfaces e aplicações web
-- demonstrações de conhecimento em lógica, design e desenvolvimento
+## Contato
 
-> Explore os repositórios e veja como posso ajudar sua ideia a virar realidade.
+<p align="center">
+  <a href="https://github.com/Joaokenehen">
+    <img src="https://img.shields.io/badge/GitHub-Visitar%20perfil-181717?style=for-the-badge&logo=github" alt="Perfil GitHub">
+  </a>
+</p>
 
----
-
-## Vamos conversar?
-
-Se quiser trocar ideias, colaborar em um projeto ou conversar sobre tecnologia, me envie uma mensagem pelo GitHub. Estou sempre aberto a novas oportunidades e parcerias.
-
-Obrigado pela visita! 😊
+<p align="center">
+  Obrigado por visitar o meu perfil.
+</p>
