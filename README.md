@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/GitHub-Joaokenehen-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="https://www.jgtechbrasil.com.br/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-JG_Tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-JG-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
 </p>
 
