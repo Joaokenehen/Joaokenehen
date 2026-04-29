@@ -1,7 +1,12 @@
-# Olá, eu sou João Gustavo Quennehen
+# Hello, I'm João Gustavo Quennehen
 
 <p align="center">
-  Desenvolvedor focado em criar interfaces modernas, aplicações completas e soluções que transformam ideias em produtos reais.
+  <a href="README.pt-br.md"><img src="https://img.shields.io/badge/Idioma-Português-green?style=for-the-badge" alt="Mudar para Português"></a>
+  <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="Language: English"></a>
+</p>
+
+<p align="center">
+  Developer focused on creating modern interfaces, complete applications, and solutions that turn ideas into real products.
 </p>
 
 <p align="center">
@@ -13,50 +18,50 @@
   </a>
 </p>
 
-## Sobre mim
+## About me
 
-- Desenvolvo projetos com foco em performance, organização e boa experiência de uso.
-- Gosto de trabalhar com frontend, backend e aplicações full stack.
-- Estou sempre aprendendo novas ferramentas, bibliotecas e boas práticas.
-- Valorizo código limpo, colaboração e evolução constante.
-- Quero a cada dia aprender mais sobre os usos de diferentes linguagens
+- I develop projects with a focus on performance, organization, and a great user experience.
+- I enjoy working with frontend, backend, and full-stack applications.
+- I'm always learning new tools, libraries, and best practices.
+- I value clean code, collaboration, and constant evolution.
+- Every day, I want to learn more about the uses of different languages.
 
-## Tecnologias que mais uso
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github,vscode&perline=5" alt="Tecnologias" />
-</p>
-
-## Estatísticas GitHub
+## Technologies I use the most
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaokenehen&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokenehen&layout=compact&theme=transparent&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github,vscode&perline=5" alt="Technologies" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joaokenehen&show_icons=true&theme=transparent&hide_border=true&locale=en" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaokenehen&layout=compact&theme=transparent&hide_border=true&locale=en" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Joaokenehen&theme=transparent&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Joaokenehen&theme=transparent&hide_border=true&locale=en" alt="Contribution Streak" />
 </p>
 
-## O que você vai encontrar por aqui
+## What you will find here
 
-- Projetos pessoais com foco em interfaces modernas e responsivas.
-- Aplicações web com integração entre frontend e backend.
-- Estudos, experimentos e evoluções da minha jornada como desenvolvedor.
-- Repositórios que mostram meu jeito de estruturar, testar e entregar software.
+- Personal projects focused on modern and responsive interfaces.
+- Web applications with frontend and backend integration.
+- Studies, experiments, and the evolution of my journey as a developer.
+- Repositories that show my way of structuring, testing, and delivering software.
 
-## Objetivo
+## Objective
 
-Usar tecnologia para construir soluções úteis, funcionais e bem pensadas, sempre buscando evoluir tanto tecnicamente quanto na forma de criar experiências melhores para as pessoas.
+To use technology to build useful, functional, and well-thought-out solutions, always seeking to evolve both technically and in how to create better experiences for people.
 
-## Contato
+## Contact
 
 <p align="center">
   <a href="https://github.com/Joaokenehen">
-    <img src="https://img.shields.io/badge/GitHub-Visitar%20perfil-181717?style=for-the-badge&logo=github" alt="Perfil GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile">
   </a>
 </p>
 
 <p align="center">
-  Obrigado por visitar o meu perfil.
+  Thank you for visiting my profile.
 </p>
